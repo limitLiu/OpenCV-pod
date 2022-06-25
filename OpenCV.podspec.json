@@ -11,7 +11,8 @@
   "authors": "https://github.com/opencv/opencv/graphs/contributors",
   "documentation_url": "https://docs.opencv.org/master/",
   "source": {
-    "http": "https://github.com/opencv/opencv/releases/download/4.6.0/opencv-4.6.0-ios-framework.zip"
+    "http": "https://github.com/opencv/opencv/releases/download/4.6.0/opencv-4.6.0-ios-framework.zip",
+    "sha256": "e4dc3e29d490c64e39aeaf61661635790232ba646656e6603dfe12786f36ab93"
   },
   "platforms": {
     "ios": "9.0"
